@@ -18,7 +18,7 @@ Instruction on running the source code.
    mvn clean install
 7. Deploy on any Java web application server, for example Tomcat-7.0.86
 
-Please note that java virtual machine much be allocated enough memory if you are download high volume of product's reviews and youtude comments.
+Please note that java virtual machine must be allocated enough memory if you are downloading high volume of product's reviews and youtude comments.
 
 Happy download.
    
