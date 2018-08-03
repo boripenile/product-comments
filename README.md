@@ -1,7 +1,7 @@
 # Amazon products' comments and Facebook videos' Reviews downloader
-# implementation using Spring-mvc, Jooq and Jsoup.
+# Implementation using Spring-mvc, Jooq and Jsoup.
 
-Instruction on running the source.
+Instruction on running the source code.
 
 1. Download and import the source code into your favourite IDE for example eclipse.
 2. Create a database with a name products_download in mysql databae engine. (please do not ask me why this name).
