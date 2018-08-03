@@ -35,8 +35,8 @@ public class SignedRequestsHelper {
 	private String endpoint = "webservices.amazon.com"; // must be lowercase
 	// KeyId and SecretKey aws ccount;
 	//*****ADD YOUR KEY HERE*****
-	private String awsAccessKeyId = "AKIAILZX6C3IOKP33ATA";
-	private String awsSecretKey = "X9+kcTDC4JCyaQT/0b4a/fLlje1txH9Xvz5Z9jXh";
+	private String awsAccessKeyId = "AccessKeyId";
+	private String awsSecretKey = "SecretKey";
 
 	private SecretKeySpec secretKeySpec = null;
 	private Mac mac = null;

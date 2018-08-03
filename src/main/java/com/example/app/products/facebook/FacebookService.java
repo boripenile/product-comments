@@ -72,7 +72,7 @@ public class FacebookService {
 			
 			videoId = queryParam[1];
 			
-			String key = "AIzaSyArYNr9j6Brl612FndSxrxbaVwx6DkRmpM";
+			String key = "Facebook-api-key";
 			
 			url = setUrl(videoId, nextPageToken, url, key);
 			FacebookCommentDTO comment = restTemplate.getForObject(url, FacebookCommentDTO.class);
